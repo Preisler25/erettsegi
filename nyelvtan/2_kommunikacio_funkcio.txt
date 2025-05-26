@@ -1,0 +1,11 @@
+Kommunikacio alapjai
+        Felado -> uzenet -> kodolas -> csatorna -> dekodolas - vevo
+
+        tipusa
+            ~ egy vagy ketiranyu
+            ~ kozvetett es kozvetlen 
+
+        funkciok
+            ~ informacio atadasa
+            ~ Manipulacio
+            ~ erzelemkifejezes
