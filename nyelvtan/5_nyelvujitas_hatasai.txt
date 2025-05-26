@@ -6,4 +6,37 @@ Nyelvujitas (18.szazad masodik fele 1750-1850)
             -> magyar
         ~ Felvilagosodas
             -> nacionalizmus
-        ~  
+    
+    Resztvevok:
+        ~ Besenyei Gyorgy
+          -1772
+          - magyar nyelv egy arany banya es ki kell hasznalni
+        ~ Kazincy Ferenc
+        ~ kolcsey Ferenc
+        ~ Szemere Pál
+
+    Folyamat:
+      ~ 10000 uj szo 
+        -> ebbol 7000 meg is maradt
+      ~ Szoelvonas
+        -> gyart -> gyar
+        -> tulajdonos -> tulajdon 
+      ~ Szooszetetel
+        -> konyvtar, tuzolto
+      ~ Szoosszerantas
+        -> higany, tanar
+      ~ tukorforditas
+        -> allaspont
+      ~ Szokepzes
+        -> Irodalom
+      ~ Regiszavak 
+        -> Bela, Geza, Ev 
+      ~ Nyelv jaras:
+        -> hullam, betyar
+
+    Hatasai:
+      ~ Egyseges magyar nyelv
+      ~ Helyesiras 
+      ~ Sajto nyomtatott sajto elterjedese
+
+    
