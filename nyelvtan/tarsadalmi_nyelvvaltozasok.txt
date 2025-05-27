@@ -1,0 +1,18 @@
+Nyelv valtozatok
+  Tarsadalmi
+    ~ Barati
+      - szleng, tegezes, szokincs, egyszerubb osszetetelu mondatok
+    ~ Hivatalos
+      - beszedsebesseg lassul
+    ~Szakmai
+      - szakmai szavak, kifejezesek, szakmai Nyelv
+    ~ Hobby nyelv
+      - hobbihoz kapcsolodo szavak, kifejezesek
+    ~ szleng
+      - fiatalok kozt elterjedt, informalis, gyakran idegen szavakat tartalmaz
+
+  Teruleti
+    ~Nyelv jaras
+      - kihaloban van media es a nyelv ujitas miatt
+        -> Szegedi o zes szoged 
+      
