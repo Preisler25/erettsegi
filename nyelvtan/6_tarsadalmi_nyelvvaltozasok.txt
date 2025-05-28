@@ -9,10 +9,14 @@ Nyelv valtozatok
     ~ Hobby nyelv
       - hobbihoz kapcsolodo szavak, kifejezesek
     ~ szleng
-      - fiatalok kozt elterjedt, informalis, gyakran idegen szavakat tartalmaz
+      - eletkor
+        -> Fiatalok nyelvhasznalata
+        -> Fiatalosnak lenni meno
+        -> Roviditesek
+          # Csoki, Suti, tori
 
   Teruleti
-    ~Nyelv jaras
+      ~Nyelv jaras
       - kihaloban van media es a nyelv ujitas miatt
         -> Szegedi o zes szoged 
       
