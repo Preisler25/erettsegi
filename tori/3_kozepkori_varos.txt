@@ -1,0 +1,79 @@
+hogy alakultak ki
+    -> 11. szazadi nyugat europaban
+    -> uj technikai vivmanyok
+        -> vizimalom
+        -> nehezeke
+    -> kovetkezmenyek
+        -> nepessegnovekedes
+        -> arutermeles
+        -> fellendulo kereskedelem
+        -> penzgazdasag
+        -> varosias telepuleseken koncentralodtak
+        -> elhelyezkedesuk
+            -> puspoki, foldesuri, kiralyi szekhelyek korul
+            -> kereskedelmi csomopontoknal
+        -> iparosok erkeztek
+        -> novekvo bevetelek
+        -> kommunakat alakitottak
+        -> kiraly tamogatasat elveztek
+    -> mikortol lesz varos 
+        -> kivaltsagokat elnyerte
+        -> nincs foldesuri joghatosag
+        -> kivaltsagok:
+            -> Szabad vezeto valasztas
+                -> polgarmester/biro
+            -> falepites joga
+            -> varos a kiralynak adoznak
+                -> egyosszegben
+            -> arumegallitas joga
+        
+hogy nézett ki a külső forma
+    -> fallal vedet
+    -> falak reszekre vannak osztva, melyett egyes cehek tartottak karban es vedtek
+    -> varosok belselye is negyedekre van osztva pl zsidonegyed stb
+    
+céhek, társadalom szerkezet
+    Varos tarsadalma
+        -> varosi polgar 
+            -> X idot ell kell tolteni ott hogy polgar lehes
+        -> hierarchia
+            -> gazdag kereskedok
+            -> iparos cehmesterek
+            -> nep
+    Varosi intezmenyek
+        -> polgarmester / biro
+        -> varosi tanacs
+            -> kereskedok
+            -> cehmesterek
+    Cehek 
+        -> iparosok erdekvedelmi szervezete
+        -> varosonkent szakmankent alakultak
+        -> mukodese
+            -> korlatozott szuk pia kiszolgalasa
+            -> termeles korlatozasa
+            -> verseny korlatozasa
+            -> minosegi termekek eloallitasa
+            -> egesz munkafolyamatott egy ceh mester vegzi
+        -> mesterre valas
+            -> inas (tobb evig)
+            -> cehkegeny
+                -> mestermunka keszitese
+                -> tanulmanyi ut
+            -> cehmester
+        -> hierarchikus
+        -> kontarok kizarasa
+            -> kontar -> nem a cehszabajait/ abban levo iparos
+        -> kozfeladatok ellatasa
+            -> varos vedelem
+            -> szocialis feladatok
+        
+
+
+Magyar varosok
+14. szazad
+    - banyaszat fejlodese
+        -> banyavarosok (felvidek)
+    - szabad kiralyi varos
+    - mezovaros
+        -> kisebb jogok
+    - nemetek laktak legtobbszor

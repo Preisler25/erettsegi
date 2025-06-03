@@ -18,5 +18,5 @@ Nyelv valtozatok
   Teruleti
       ~Nyelv jaras
       - kihaloban van media es a nyelv ujitas miatt
-        -> Szegedi o zes szoged 
+        -> Szegedi ö zes szoged 
       

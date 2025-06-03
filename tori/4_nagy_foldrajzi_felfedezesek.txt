@@ -1,0 +1,104 @@
+okok
+    -> vilagnezeti
+        -> reneszansz
+            -> nyitottsag
+    -> Tudomanyos
+        -> korabelinel pontosabb terkepek
+        -> tajekozodasi ismeretek, eszkozok
+        -> a fold gomb alakusaga
+            -> nyugati iranyban is korulhajozhato
+    -> Politikai
+        -> Iberiai felsziget
+            -> morok(iszlam hitu, arabok)
+    -> Gazdasagi
+        -> keleti luxustermekek beszerzese
+            -> Oszman Birodalom extran adoztatta ezeket
+                -> ki kell oket kerulni
+        -> aranyehseg
+            -> nemesfemek iranti kereslet
+            -> magyar banyak is elkezdtek kiurulni
+            -> tavkereskedelem kiszivattyuzta europa nemesfem keszletet
+    -> Technologia
+        -> uj hajotipus
+            -> Karavella
+                -> alkalmas a nyilt tengeri hajozasra
+
+Felfedezők
+    -> Portugalok (cel: india)
+        -> Afrika megkerulesevel
+            -> Bartolomeo Diaz (1487)
+                -> Joremenyseg-fok
+            -> Vasco da Gama (1498)
+                -> India
+        -> Strategiai kereskedelmi lerakatok / erodok kialakitasa
+            -> Indiai ocean -> Portugal beltenger (fenthatosaga ala kerult)(kontroll)
+            -> kinai tengerpartra is eljutottak
+    -> Spanyolok
+        -> Kolombusz Kristof
+            -> Nyugati itanyba indult el
+            -> Kisebbnek hitte a foldet
+                -> hazudott a hajonaploban
+            -> Kozep ameriaki szigetek (1492)
+                -> azt hittek nyugat indiaba juttotak
+            -> Negy utat tesz 
+        -> Amerigo Vespucci
+            -> nyugat india = uj kontines -> Amerika 
+        -> Magellan
+            -> Korbehajozta a foldet
+            -> o nem, de hajoi igen
+        -> Amerikai gyarmat birodalmat hoztak letre
+
+    -> tordesiillasi szerzodes
+        -> papa
+            -> atlati oceant atszelo hosszudagi kort jelolt ki 
+            -> ez viszont del amerikat kette vagta 
+                -> brazilia portugal gyarmat
+
+indián civilizáciok
+Aztekok
+Mayak 
+
+
+következmények
+    -> Gazdasagi
+        -> penzboseg
+            -> Gyarmatokbol befolyo penzek
+        -> hitelezes fejlodese
+        -> ipari fejlodesek
+        -> befektetesek megjelenese
+        -> megjelent a toke
+            -> olyan ertek, amely befektetes nelkuli haszont termel
+        -> toke felhalmozas
+        -> Korai Kapitaliymus megjelenese
+        -> Arforadalom
+            -> penzboseg -> inflaciot generalt
+            -> magas arak 
+            -> serkenti a termelest 
+        -> Manufaktura megjelenese
+            -> mennyiseg a fokusz
+            -> munkafolyamatokra bontjak a folyamatokat
+            -> betanithato monoton munka (egy folyamat reszt csinalt csak)
+            -> olcso munka ero
+        -> Bankok megjelenese
+            -> penzvaltas
+            -> penz orzes
+            -> hitelezes
+        -> Tozsde megjelenese
+            -> eleg arut bemutatni
+            -> elozetes ugyletek lebonyolitasa
+            -> ertekpapir
+            -> Ertekpapir tovabb ertekesitese
+        -> Reszvenytarsosagok
+            -> csokenti a kockazatot
+            -> megoszlik a haszon
+        
+    -> Tarsadalmi
+        -> nepesseg novekedes
+            -> nagyobb piac
+            -> olcsobb munka ero
+        -> jobbagyok (brit)
+            -> bekerites
+                -> jobbagyok foldjeikrol valo elkergetese
+                -> vagy bermukaskent vagy bevandoroltak a varosokba
+            -> bermunka
+                -> jobbagyok helyett bermunkat
