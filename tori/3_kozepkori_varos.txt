@@ -77,3 +77,84 @@ Magyar varosok
     - mezovaros
         -> kisebb jogok
     - nemetek laktak legtobbszor
+
+
+
+
+
+
+Nyugat ur 11 szazad
+Elozmenyek
+    -> Uj eszkozok
+        -> nehezeket
+        -> vizimalom
+    -> Kovetkezmeny nepesseg nepesseg novekedes 
+    -> fellendul a kereskedelem 
+
+    -> penz kereskedelem
+    -> kereskedelmi utak mentek varos szeruen rendezodtek be, de ezek akkor meg tovabra is jobbagy telkek voltak
+        -> valamint folyok
+        -> kiralyi / puspoki / foldesuri kozpontok kozeleben
+    -> tovabbra is a foldes uraknak adoznak, ami nem volt fer mert ilyenkor a kicsit tobb lett maradhat elv mukodott
+        -> cel 1szeri adozas a kiralynak
+    -> emiatt kommunakat alakitottak
+        -> cel a fuggetlenedes
+    -> kiraly szovetseges altalabban mert az elhatalmasodo foldes urak hatalmat csokkentheti
+
+
+Varos
+    -> mikortol lesz valami varos
+        -> kiraly engedelyevel
+        -> megszunik a foldes uri fuggoseg
+
+    -> kivaltsagok
+        -> sajat vezeto valasztas
+            -> Egyhazi es foldi is
+                -> biro/polgarmester
+        -> falepites
+            -> ez ekkoriban szembe szallas a kiraly hatalommal, ha nem kaptal ra engedelyt
+        -> 1szeri adozas evente a kiralynak
+        -> sajat adok kivetese
+        -> aru megallitas joga
+
+    -> felepitese
+        -> fallal korulvet (reszekre osztva a karbantartasa es vedelme a cehek kozzot)
+        -> negyedekre osztott (pl zsido negyed)
+        -> foter/piac ter kozepen
+    
+    -> Intezmenyei
+        -> polgarmester
+            -> varosi tanacs
+                -> Cehmesterek, gazdag kereskedok
+    
+    -> polgari hierarchia
+        -> gazdag kereskedok
+        -> cehmester
+        -> nep (ahoz hogy valaki polgar legyen x - idot el kellet toltenie a varosban)
+
+Cehek
+    -> iparosok erdekvedelmi szervezete 
+    -> varosonkent szakmankent egy darab
+    -> Munkafolyamatott kezdettol a vegeig a Cehmester vegzi
+    -> celja 
+        -> Pica szabajzasa
+            -> termeles mennyisege
+            -> termek ara
+        -> Ceh korlatozza a versenyt
+    -> hierarchikus
+        -> Cehmester
+        -> Cehlegeny
+        -> Inas
+    -> Cehmesterre valas
+        -> inaskodas
+        -> legenykent tobb evet le kell dolgoznod
+            -> majd mester munkat kell keszitened
+            -> masik varosba kell latogas tanulmanyi utra
+    -> Kozfeladatok ellatasas
+        -> varos vedellem
+        -> szocialis feladatok
+    -> Cehen kivuli iparosok
+        -> kontarok
+        -> nem kovetik a ceh szabalyait
+        -> Eluldoztek oket
+        -> gyakran rosszabb minosegi munkat olcsobban vegeztek el

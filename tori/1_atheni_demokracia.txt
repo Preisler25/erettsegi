@@ -10,8 +10,6 @@ Atheni Demokracia kialakulasa:
         + Demosz 
         + Arisztrokratak
 
-    - Napidij bevezetese a 
-
 Atheni Demokracia mukodese:
 
   Testuletek:

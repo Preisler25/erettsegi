@@ -34,7 +34,7 @@ Kereszteny vallas kialakulasa:
           -> Csaszarok isteni kultuszat nem fogadtak el, emiatt a keresztenyeket üldözté
           -> Kereszteny uldozes -> Martir halalok
             -> Meglepet romai lakosok
-            -> Egybol udvoyul aki igy hal meg
+            -> Egybol udvozul aki igy hal meg
             -> bizonyitottak hituket
             -> Gyorsitotta a keresztenyseg terjedesel
           -> Kereszteny kozossegek
@@ -47,7 +47,7 @@ Kereszteny vallas kialakulasa:
 
 Keresztenyseg allam vallas
   kru 3. szazad
-  Konstantinsz Csaszar
+  Konstantinusz Csaszar
     -> Keresztenyseg szabadon gyakorolhato vallas lett 
     -> milanoi edictum (kru 313)
     -> Bazilikakat -> Keresztenyeknek adomanyoz!
