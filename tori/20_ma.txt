@@ -1,0 +1,203 @@
+Az alaptorveny
+    2011ben fogadtak el 2012 januar 1-tol hatalyos az alaptorveny
+    - legmagaszabb szintu jogszabaly (2/3 modositas hoz)
+    - nemzeti hit vallas 
+        - nemzeti ertekek
+    - alapvetes 
+        - allamforma 
+        - szinbolumok
+    - allampolgari jogok es kotelessegek
+        - jog egyenloseg elve
+    - demokratikus intezmeny rendszer alapjai
+
+    allamforma 
+    -> Koztarsosag (demokracia) 
+
+    kormanyzati forma 
+    -> parlamentalis koztarsosag 
+        -> Vegrehalytoi hatalmat az orszaggyules altal valasztott kormany gyakorolja
+        -> Mas allamokban elnoki koztarsosag
+            -> vegrehalytoi hatalom a kozvetlenul valasztott elnok gyakorolja
+
+    allamfo
+    -> az orszaggyules valasztja 5 evre 
+    -> nemzet egyseget fejezi ki orkodik a demkoracia folott
+    -> a torvenyek az o alairassaval emelkednek jogerore 
+        -> vissza kuldheti megfontolasra (egy alkalommal)
+        -> az Alkotmany birossaghoz fordulhat, alkotmanyossagi aggaly eseten
+    -> az orszaggyulest ossze hivhatja, a valasztasokat kiirja, miniszterelnokot jelol es biz meg 
+    -> kitunteteseket ad, tabornokokat, egyetemi tanarokat kinevezi, a honvedseg foparancsnoka
+
+Vegrehalyto Hatalom - Kormany
+    kormanyt a parlement valasztja 
+        -> az ott tobbseggel biro part/koalicio
+    
+    kormany mandatumank vege 
+        -> kitoltotte a mandatumant
+        -> lemond / bizalmatlansagi inditvany
+    
+    kormany elen
+        -> miniszter elnok 
+            -> koztarsosagi elnok keri fel, kormany alkotashoz
+
+    kormanytagok
+        -> miniszteriumok
+            -> kormanyzatot miniszteriumok alkotjak
+
+    vegrehajto hatalom gyakorlasa
+        -> torvenyeket terjeszt elo
+        -> rendeleteket alkot
+        -> iranyitja az allam igazgatast
+
+    ellenorzes 
+        -> Allami Szamvevo szek -> az allam penzugyeit ellenorzi 
+        -> orszaggyulesi biztos 
+            -> alapveto jokok biztosa
+                -> allampolgari jogok vizsgalata
+            -> helyettesei 
+                -> a kisebbsegek es a jovo nemzedek jogaiert felelnek
+
+    Magyar nemzeti bank 
+        -> onallo
+            -> a kormanytol fuggetlen szerv
+        -> a valuta ertekallosagaert felel
+        -> szamos penzugyi ellenorzo funkciot gyakorol
+
+Helyi Kozigazgatas - Onkormanyzat
+    
+    teruleti es telepulesi onkormanyzatok
+        -> a helyi erdekeket kepviselik 
+        -> kozzoseg kepviselete
+    
+    intezmenyek
+        -> kepviselo testulet
+            -> helyi rendelet alkotas
+            -> koltsegvetes
+        -> polgarmester
+            -> elnokol a kepviselo testuletben
+            -> itanyitja
+            -> kepviseli a testuletet
+        -> jegyzo
+            -> adminisztrativ munkat iranyitja
+            -> a torvenyesseget felugyeli 
+
+    feladatok
+        -> szocialis, egeszseg ugyi, oktatasi, kulturalis intezmenyek fentartasa
+        -> uthalozat, kozmuvek fentartasa
+        -> szocialis segelyezes
+
+    bevetelek
+        -> allamhaztartasi tamogatasok 
+        -> helyi adok 
+        -> iparuzesi ado 
+        -> idegenforgalmi ado
+        -> parkolasi dij 
+        -> onkormanyzati lakasok berleti dijja
+
+    kormanyzati hatalmat helyi szinten
+        -> varmegyei kormanyhivatalok latjak el 
+        -> elukon a foispan
+        -> az allami ugyek helybeni intezeseit biztositjak
+        -> kormanyzati dontesek vegrehalytasat is vegzik
+
+Biroi Hatalom
+    -> fuggetlen biroi rendszer 
+    -> tobbszintu
+        -> felebbezes lehetosege
+        -> helyi (jarasi/teruleti)
+        -> megyei torvenyszek
+        -> keruleti (itelotabla)
+        -> kuria
+
+    -> ugyeszseg 
+        -> szinten tobbszintu 
+        -> a vedelmet ugyvedek latjak el 
+
+    -> polgari ugyekben
+        -> ugyvedet az erintett felek kerik fel 
+    
+    -> alkotmanybirosag
+        -> fuggetlen 12 evre valasztott tagok 15 fo
+        -> jogszabalyok alaptorvenynek megfeleleset elenorzik
+        -> torvenyeket semmisithet meg
+        -> a koztarsosagi elnok, a kormany, az alapveto jogok biztosa, a kepviselok 1/4 fordulhat hozza 
+        -> allampolgarok 
+            -> ha alkotmanyellenes jogszabaly okan serelem erte oket 
+    
+Torvenyhozo hatalom - Orszaggyules
+    Nepkepviselett legfobb szerve 
+        -> egykamaras
+    
+    fo feladata a torvenyhozas
+        -> alkotmany, sarkalatos torvenyek 2/3
+        -> tovabbi torvenyek 50%+1fo
+    
+    minden evben el kell fogadnia a koltseg vetest 
+    
+    az orszag gyules valasztja:
+        -> Koztarsosagi elnok, miniszterelnok
+        -> alkotmanybirosag, kuria elnoke, legfobb ugyeszt
+        -> allappolgari jogok biztosa es helyettesei, Allami szamvevo szek elnoket
+    
+    ellenorzo es nyilvanossag teremto funkciok
+        -> a kormany munkajarol kerdeseket lehet foltenno - interpellaciok
+        -> vizsgalatok indithatok
+    
+    plenaris ules - 199  kepviselo
+        -> a kepviseloket mentelmi jog illeti meg
+        -> frakciok vannak (partok / koaliciok)
+        -> itt fogadjak el a torvenyeket
+            -> modosito inditvanyok megtargyalasa utan
+
+    szakmai munka 
+        -> torvenyeloterjesztesek vitaja
+        -> bizottsagokban zajlik
+
+    az orszaggyules elnoke 
+        -> vezeti az orszaggyules munkajat
+        -> a koztarsosagi elnokot akadalyoztatasa esetten 
+            -> o helyettesiti 
+
+Valasztasi Rendszer - Nepszavazasok
+    orszaggyulesi - 4 evente 
+        -> altalanos, titkos, egyenlo kozvetlen
+        -> vegyes valasztoi rendszer (aranyos es tobbsegi)
+            -> 93 listas 
+                -> part alltal allitot listas
+                -> aranyos
+            -> 106 egyeni (valaszto korzeti) 
+                -> alairas gyujtessel
+                -> tobbsegi
+        -> egyfordulos
+        -> kompenzacios lista 
+            -> egyeniben vesztesre leadott szavazatok 
+                -> a listashoz hozza adodnak
+        -> parlamenti kuszobb
+            -> 5%
+    
+    Onkormanyzati valasztasok
+        -> 5evente 
+        -> polgarmester kozvetlenul valasztassa
+        -> helyi onkormanyzati valasztasok
+            -> 10000 fo folott valaszto korzetenkent egy egy jelolt
+            -> 10000 fo alatt listas szavazat
+        -> teruleti onkormanyzati testuletek 
+            -> teruleti partlistakrtol
+
+    Europai parlamenti valasztasok
+        -> 5 evente
+        -> 21 kepviselo hely a magyaroke
+        -> aranyos listas valasztas
+
+    Nepszavazasok 
+        -> kozvetlen demokracia eszkoze
+            -> kepviseleti demokraciat egesziti ki 
+        -> ervenyes ha a valasztopolgarok tobb mint fele szavazott
+        -> eredmenyes ha a szavazok tobb mint fele igenlo szavazatott adott le 
+        -> nem lehet nepszavazas targya 
+            -> kormany program 
+            -> koltsegvetest erinto kerdes 
+            -> nemzetkozi szerzodes 
+            -> szemelyi kerdes 
+        -> kiirasahoz legalabb 100 000 alairas szukseges
+        -> lehet ugydonto / velemeny nyilvanito
